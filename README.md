@@ -4,4 +4,6 @@
 ### Repository Guide
 See [RepoGuide](https://github.com/huyu-no-yozora/RepoGuide).
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyu-no-yozora&layout=compact) -->
+
 
