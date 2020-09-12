@@ -10,7 +10,7 @@ See [RepoGuide](https://github.com/huyu-no-yozora/RepoGuide).
 <details>
   <summary><b> Published Notes </b></summary>
   
-  1. [TechNotes](https://github.com/huyu-no-yozora/huyu-no-yozora/TechNotes)  
-  1. [Physics](https://github.com/huyu-no-yozora/huyu-no-yozora/Physics)  
-  1. [Weather](https://github.com/huyu-no-yozora/huyu-no-yozora/Weather)
+  1. [TechNotes](https://github.com/huyu-no-yozora/TechNotes)  
+  1. [Physics](https://github.com/huyu-no-yozora/Physics)  
+  1. [Weather](https://github.com/huyu-no-yozora/Weather)
 </details>
